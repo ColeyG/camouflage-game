@@ -1,6 +1,6 @@
 # Camouflage Game
 
-A little silly goblin-type experience. For a less technical explanation, visit the [Jape Zone page](https://www.google.ca/) for more information.
+A little silly goblin-type experience. For a less technical explanation, visit the [Jape Zone](https://www.google.ca/) for more information.
 
 ## Playing the Game
 

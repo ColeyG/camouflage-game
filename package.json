@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/ColeyG/camouflage-game#readme",
   "dependencies": {
-    "electron": "^16.0.5"
+    "@sveltejs/kit": "^1.0.0-next.1",
+    "electron": "^16.0.5",
+    "socket.io": "^4.4.0",
+    "svelte": "^3.44.3"
   }
 }
